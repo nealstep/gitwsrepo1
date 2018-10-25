@@ -1,5 +1,5 @@
 abcdef ABCDEF
-ghijkl
+ghijkl GHIJKL
 mnopqr MNOPQR
 stuvwx
 yz YZ
