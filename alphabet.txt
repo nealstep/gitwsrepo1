@@ -1,5 +1,5 @@
-abcdef
-hijklm
-nopqrs
+abcdef ABCDEF
+ghijkl
+mnopqrs
 tuvwxy
 z
